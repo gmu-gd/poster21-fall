@@ -14,5 +14,6 @@ title: Reference
 * [typo/graphic posters](https://www.typographicposters.com/)
 
 ### Software
+* [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
