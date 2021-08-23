@@ -6,7 +6,7 @@ title: Syllabus
 
 This is the syllabus for the _Fall 2021_ class of _AVT 419: Poster Design (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays and Wednesdays from 10&ndash;12 or by appointment.
 
-[Download a PDF version]([Download]({{ site.baseurl }}/assets/files/AVT419-Syllabus-Fall2021.pdf))
+[Download a PDF version]({{ site.baseurl }}/assets/files/AVT419-Syllabus-Fall2021.pdf)
 
 ### Delivery and Timing
 
