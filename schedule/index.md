@@ -16,7 +16,7 @@ In our first week we will go over the framework for the class, meet each other, 
 
 #### Starting
 * E1: [About Me]({{ site.baseurl }}/projects#e1)
-* P1: [Type Only]({{ site.baseurl }}/projects/p1)
+* P1: [Using Only Type]({{ site.baseurl }}/projects/p1)
 
 #### Reading
 * R1: Selections from _Critique_ by Ian Lynam
@@ -34,7 +34,7 @@ This week we will focus on how type can be used as a formal element and not just
 * 2.1: Type as Image
 
 #### Demos
-* D1: Craft &mdash; Cutting
+* D1: Craft&mdash;Cutting
 
 #### Critiques
 * Small Group
@@ -55,10 +55,10 @@ The ability to print correctly the first time takes some practice. This week we 
 * 3.1: File Setup and Printing
 
 #### Demos
-* D2: Craft &mdash; Tiling
+* D2: Craft&mdash;Tiling
 
 #### Critiques
-* Silent
+* Individual
 
 #### Starting
 * E3: 6 Word Memoir <!-- [6 Word Memoir]({{ site.baseurl }}/projects#e3) -->
@@ -76,7 +76,7 @@ A quick journey through history about posters and how they were printed.
 * 4.1: Ways of Printing
 
 #### Critiques
-* Individual
+* Pair
 
 #### Starting
 * E4: New Views <!-- [New Views]({{ site.baseurl }}/projects#e4) -->
@@ -156,6 +156,8 @@ Beginning the final poster this week.
 #### Reading
 * R4: [_Matta-Clark Complex_ by James Goggin](https://www.are.na/block/690465)
 
+#### Starting
+* P3: For an Exhibition <!-- [For an Exhibition]({{ site.baseurl }}/projects/p3) -->
 ---
 
 ### October 28 &mdash; Week 10

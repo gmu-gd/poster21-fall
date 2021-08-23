@@ -1,44 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Type Only</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" href="https://use.typekit.net/lpi3gnd.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-  </head>
-  <body class="interior">
-    <div id="lightbox-dim" class="hidden"></div>
-    <div id="lightbox" class="hidden"></div>
-    <main>
-      <header>
-  <small>Fall 2021 // Thursday 1:30&ndash;4:10 // AB 1020</small>
-  <h1><a href="/" />Poster Design</a></h1>
-  <nav>
-  <ul>
-    <li class="mobile-nav"><a>menu</a></li>
-    <div id="menu" class="mobile-hide">
-    
-      <li><a href="/syllabus/" >Syllabus</a></li>
-    
-      <li><a href="/schedule/" >Schedule</a></li>
-    
-      <li><a href="/projects/" class="active">Projects</a></li>
-    
-      <li><a href="/reference/" >Reference</a></li>
-    
-    </div>
-  </ul>
-</nav>
-
-</header>
-
-      <article class="single">
-        <h2 class="event"> Project 1: Type Only </h2>
-        <h3 id="description">Description</h3>
+I"	<h3 id="description">Description</h3>
 <p>An investigation into typography as a means of communication and as a formal element in design. The poster can only contain type and the image(s) of your physically constructed letter. The content of the poster should relate to your chosen letter.</p>
 
 <h3 id="part-one-choose-and-build-your-letter">Part One: Choose and Build Your Letter</h3>
@@ -68,11 +28,4 @@
   <li>September 23: one final draft, printed or tiled in color at half size and trimmed to size. draft added to miro.</li>
   <li>September 30: due, full size print in color and trimmed</li>
 </ul>
-
-        <a href="/projects" class="link-small">Back to Projects</a>
-      </article>
-    </main>
-    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js" charset="utf-8"></script>
-  </body>
-</html>
+:ET

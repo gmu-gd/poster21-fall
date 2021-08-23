@@ -4,7 +4,7 @@ title: Syllabus
 ---
 ### General
 
-This is the syllabus for the _Fall 2021_ class of _AVT 419: Poster Design (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays and Wednesdays from 10&ndash;12 or by special appointment.
+This is the syllabus for the _Fall 2021_ class of _AVT 419: Poster Design (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays and Wednesdays from 10&ndash;12 or by appointment.
 
 ### Delivery and Timing
 
@@ -16,7 +16,7 @@ AVT 311: Graphic Design Principles and Methods and AVT 313: Editorial Design, AV
 
 ### Course Description
 
-This course is designed to explore the poster as a vehicle of visual communication and expressive form. Students build skills in generating form and combining type and image at a large scale.
+This course is designed to explore the poster as a vehicle of visual communication and expressive form. Students build skills in generating form and combining type and image at a large scale as well as develop craft based skills.
 
 ### Objectives
 
@@ -28,7 +28,7 @@ This course is designed to explore the poster as a vehicle of visual communicati
 
 ### Textbook
 
-There is no specific textbook for this course. There will be various readings provided but nothing must be purchased, Below are a few books that might be interesting to you that relate to this course.
+There is no specific textbook for this course. There will be various readings provided but nothing must be purchased, below are a few books that might be interesting to you that relate to this course.
 
 * _Critique: The War of Design_ by Ian Lynam
 * _How Posters Work_ by Ellen Lupton and Gail Davidson
@@ -46,9 +46,9 @@ Not many necessary materials for this course but there are a few. (Items in pare
 5. Glue Sticks (Uhu Stic, small, large, or jumbo)
 
 ### Content
-This course consists of exercises, projects, workshops, readings, discussions, and critiques. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Readings and discussions will be centered around contemporary poster design.
+This course consists of exercises, projects, workshops, readings, discussions, and critiques. The exercises are to familiarize students with specific concepts and ideas and the projects are to synthesize the concepts and ideas we will cover. Readings and discussions will be centered around contemporary poster design.
 
-#### poster 1: type only
+#### poster 1: using only type
 An investigation into typography as a means of communication and as a formal element in design. The base of the project will be choosing a character to physically construct, then documenting that character through photography and then integrating that image into a poster. [More information here]({{ site.baseurl }}/projects).
 
 
@@ -56,7 +56,7 @@ An investigation into typography as a means of communication and as a formal ele
 Many times the content of a design drives the form but what happens the content is decided based on the form? This poster will start with formal studies using collage and abstract photography and then integrate content. [More information here]({{ site.baseurl }}/projects).
 
 #### poster 3: for an exhibition
-The final poster will be for a a fictional exhibition of work. A list of artists will be provided to choose from and the only design restriction is that images of the artist or the artists work cannot be used. Details and information that must be included on the poster will also be provided. [More information here]({{ site.baseurl }}/projects).
+The final poster will be for a fictional exhibition of work. A list of artists will be provided to choose from and the only design restriction is that images of the artist or the artist's work cannot be used. Details and information that must be included on the poster will also be provided. [More information here]({{ site.baseurl }}/projects).
 
 ### Engagement
 This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
@@ -73,28 +73,28 @@ This course has an engagement policy instead of an attendance policy. Your engag
 Grades will be based on engagement (25%),  exercises (25%), and projects (50%).
 
 #### engagement (25%)
-This percentage will be based on your engagement in the class which is explained on previous pages but will include attendance, discussion assignments, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
+This percentage will be based on your engagement in the class which is explained on previous page but will include attendance, discussion and readings, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
 
 #### exercises (25%)
-The exercises are graded using basic rubrics shown below. The rubric includes your ability to follow the instructions of the exercise and your ability to submit it on time. The exercises are meant to be quicker, skill building tasks that improve your projects and knowledge design.
+The exercises are graded using a basic rubric show in the PDF version of the syllabus. The rubric includes your ability to follow the instructions of the exercise and your ability to submit it on time. The exercises are meant to be quicker, skill building tasks that improve your projects and design knowledge.
 
-#### projects  (40%)
-Each project will generate two different grades. One grade will be based on your ability to submit the required, weekly checkpoints for the project. These weekly checkpoints use a simple rubric based on your effort, timeliness, improvement, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 6 total project grades that are all weighted equally for this 40%.
+#### projects  (50%)
+Each project will generate two different grades. One grade will be based on your ability to submit the required, weekly checkpoints for the project. These weekly checkpoints use a simple rubric based on your effort, timeliness, improvement, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 6 total project grades that are all weighted equally for this 50%. The rubrics used for grading the checkpoints and projects are in the PDF syllabus.
 
 #### rubrics
-Rubrics are used to grade exercises, projects, and checkpoints. The rubrics are available in the PDF syllabus and on project sheets.
+Rubrics are used to grade exercises, projects, and checkpoints. The rubrics are available in the PDF syllabus.
 
 ### Communication
-Your ability to communicate with me is of prime importance in this course. If you are going to be absent, late, or not have your work it will be of best interest to you and your grade to communicate those things to me in advance. I do not need know your reasons for being absent, late, or not having your work but I do need to know. A simple, short email will be fine.
+Your ability to communicate with me is of prime importance in this course. If you are going to be absent, late, or not have your work, it will be your best interest in  communicating those things to me in advance. I do not need to know your reasons for being absent, late, or not having your work but I do need to know. A simple, short email will be fine.
 
 The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
 
 ### Weekly Schedule
 Class is on Thursdays from 1:30–4:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
-A note&mdash;Time management is an important skill to master and should be worked in all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
+A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
 
-A second note&mdash;Printing doesn't happen in five minutes. In order to be prepared for class you will most likely need to print things the day before. Sending something to print an hour before class will most likely result in you not being prepared for class because the print isn't ready to pick up or because you don't have time to trim, glue, tape, etc.
+A second note&mdash;Printing doesn't happen in five minutes. In order to be prepared for class you will most likely need to print things the day before, or at the very least several hours before class. Sending something to print an hour before class will most likely result in you not being prepared for class because the print isn't ready to pick up or because you don't have time to trim, glue, tape, etc.
 
 ### Semester Schedule
 The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this fall. It is subject to additions and subtractions.
