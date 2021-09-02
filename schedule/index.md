@@ -40,7 +40,7 @@ This week we will focus on how type can be used as a formal element and not just
 * Small Group
 
 #### Starting
-* E2: Type Effects <!-- [Type Effects]({{ site.baseurl }}/projects#e2) -->
+* E2: [Type Effects]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
 * _Youtube:_ [InDesign How-To: Create Crop Marks on Page Elements](https://www.youtube.com/watch?v=Bqm1bNADtu0)
