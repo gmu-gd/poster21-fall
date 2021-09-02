@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-23T10:35:24-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">About Me</title><link href="http://localhost:4000/exercises/e1/" rel="alternate" type="text/html" title="About Me" /><published>2021-08-23T00:00:00-04:00</published><updated>2021-08-23T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e1</id><content type="html" xml:base="http://localhost:4000/exercises/e1/">&lt;h4 id=&quot;exercise-1-about-me&quot;&gt;Exercise 1: About Me&lt;/h4&gt;
 
-&lt;p&gt;Create 3 9”x12” mini posters using descriptive bits of information about yourself. Each mini poster should use the same grid and focus on heirarchy, alignment, and space. Do not add your name or use any images. You can use color if you want but black and white is fine.&lt;/p&gt;
+&lt;p&gt;Create 3 9”x12” mini posters using descriptive bits of information about yourself. Each mini poster should use the same grid and focus on hierarchy, alignment, and space. Do not add your name or use any images. You can use color if you want but black and white is fine.&lt;/p&gt;
 
 &lt;h5 id=&quot;technical-requirements&quot;&gt;Technical Requirements&lt;/h5&gt;
 
