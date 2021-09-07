@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 author: Michael McDermott
-title: Oleksandra
+title: Alex
 categories: [student]
 link: #
 ---
