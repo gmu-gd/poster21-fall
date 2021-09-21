@@ -82,9 +82,6 @@ A quick journey through history about posters and how they were printed.
 * E4: New Views <!-- [New Views]({{ site.baseurl }}/projects#e4) -->
 * P2: [Start]({{ site.baseurl }}/projects/p2)
 
-#### Reading
-* R2: [_The Persistence of Posters_ by Andrew Blauvelt](https://walkerart.org/magazine/the-persistence-of-posters)
-
 #### Digital References
 * _International Poster Gallery:_ [A Brief History of the Poster](https://www.internationalposter.com/a-brief-history-of-the-poster/)
 
@@ -103,6 +100,9 @@ After working with type AS image we will now move into type AND image.
 * E5: Cut, Tear, Tape, Paste <!-- [Cut, Tear, Tape, Paste]({{ site.baseurl }}/projects#e5) -->
 * P2: Content Follows Form <!-- [Content Follows Form]({{ site.baseurl }}/projects/p2) -->
 
+#### Reading
+* R2: [_The Persistence of Posters_ by Andrew Blauvelt](https://walkerart.org/magazine/the-persistence-of-posters)
+
 ---
 
 ### September 30 &mdash; Week 6
@@ -114,13 +114,13 @@ Small group brainstorming to generate content ideas for P2.
 ---
 
 ### October 7 &mdash; Week 7
-A look at how posters and protest have coexisted. Also a workshop about using the laser cutter.
+A look at how posters and protest have coexisted. Also a workshop about creating paper stencils.
 
 #### Class Lessons
 * 6.1: The Art of Protest
 
 #### Demo
-* D3: Laser Cutter
+* D3: Craft&mdash;Paper Stencils
 
 #### Critiques
 * Individual
