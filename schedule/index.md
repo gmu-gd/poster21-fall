@@ -91,7 +91,7 @@ A quick journey through history about posters and how they were printed.
 After working with type AS image we will now move into type AND image.
 
 #### Class
-* 5.1: Type and Image
+* 5.1: Type and Image &ndash; [Miro Board](https://miro.com/app/board/o9J_lv_cyIc=/)
 
 #### Critiques
 * Half Class
