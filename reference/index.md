@@ -3,6 +3,9 @@ layout: interior
 title: Reference
 ---
 
+### Books
+* [Type, Image, Message by Nancy Skolos and Tom Wedell](https://wrlc-gm.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_safari_books_9781592531899&context=PC&vid=01WRLC_GML:01WRLC_GML&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,type%20image%20message&offset=0)
+
 ### Websites
 * [International Poster Gallery](https://www.internationalposter.com/)
 * [Poster House](https://posterhouse.org/)
