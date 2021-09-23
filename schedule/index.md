@@ -61,7 +61,7 @@ The ability to print correctly the first time takes some practice. This week we 
 * Individual
 
 #### Starting
-* E3: 6 Word Memoir <!-- [6 Word Memoir]({{ site.baseurl }}/projects#e3) -->
+* E3: [6 Word Memoir]({{ site.baseurl }}/projects#e3)
 
 #### Digital References
 * _Adobe InDesign:_ [Printer's Marks and Bleeds](https://helpx.adobe.com/indesign/using/printers-marks-bleeds.html)
@@ -79,7 +79,7 @@ A quick journey through history about posters and how they were printed.
 * Pair
 
 #### Starting
-* E4: New Views <!-- [New Views]({{ site.baseurl }}/projects#e4) -->
+* E4: [New Views]({{ site.baseurl }}/projects#e4)
 * P2: [Start]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
@@ -90,15 +90,12 @@ A quick journey through history about posters and how they were printed.
 ### September 23 &mdash; Week 5
 After working with type AS image we will now move into type AND image.
 
-#### Class
-* 5.1: Type and Image &ndash; [Miro Board](https://miro.com/app/board/o9J_lv_cyIc=/)
-
 #### Critiques
 * Half Class
 
 #### Starting
-* E5: Cut, Tear, Tape, Paste <!-- [Cut, Tear, Tape, Paste]({{ site.baseurl }}/projects#e5) -->
-* P2: Content Follows Form <!-- [Content Follows Form]({{ site.baseurl }}/projects/p2) -->
+* E5: [Cut, Tear, Tape, Paste]({{ site.baseurl }}/projects#e5)
+* P2: [Content Follows Form]({{ site.baseurl }}/projects/p2)
 
 #### Reading
 * R2: [_The Persistence of Posters_ by Andrew Blauvelt](https://walkerart.org/magazine/the-persistence-of-posters)
@@ -107,6 +104,9 @@ After working with type AS image we will now move into type AND image.
 
 ### September 30 &mdash; Week 6
 Small group brainstorming to generate content ideas for P2.
+
+#### Class
+* 5.1: Type and Image &ndash; [Miro Board](https://miro.com/app/board/o9J_lv_cyIc=/)
 
 #### Critiques
 * Small Group
