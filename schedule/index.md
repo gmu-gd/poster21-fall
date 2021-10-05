@@ -125,11 +125,12 @@ A look at how posters and protest have coexisted. Also a workshop about creating
 #### Critiques
 * Individual
 
-#### Reading
-* R3: _Night Discourse_ by Karrie Jacobs
+#### Starting
+* E6: Protest Posters
 
 #### Digital References
 * _Poster House:_ [A History of American Protest](https://posterhouse.org/blog/a-history-of-american-protest/)
+* _Poster House:_ [Hot Poster Tips](https://posterhouse.org/blog/hot-poster-tips/)
 
 ---
 
@@ -137,13 +138,13 @@ A look at how posters and protest have coexisted. Also a workshop about creating
 A screen printing workshop to create protest posters.
 
 #### Demo
-* D4: Screen Printing
+* D4: Craft&mdash;Screen Printing
 
 #### Critiques
 * Small Group
 
-#### Starting
-* E6: Protest Posters
+#### Reading
+* R3: _Night Discourse_ by Karrie Jacobs
 
 ---
 
@@ -158,6 +159,7 @@ Beginning the final poster this week.
 
 #### Starting
 * P3: For an Exhibition <!-- [For an Exhibition]({{ site.baseurl }}/projects/p3) -->
+
 ---
 
 ### October 28 &mdash; Week 10
