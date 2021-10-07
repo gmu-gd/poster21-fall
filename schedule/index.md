@@ -117,7 +117,7 @@ Small group brainstorming to generate content ideas for P2.
 A look at how posters and protest have coexisted. Also a workshop about creating paper stencils.
 
 #### Class Lessons
-* 6.1: The Art of Protest
+* 6.1: The Art of Protest &ndash; [Miro Board](https://miro.com/app/board/o9J_lrgGB00=/)
 
 #### Demo
 * D3: Craft&mdash;Paper Stencils
@@ -131,7 +131,7 @@ A look at how posters and protest have coexisted. Also a workshop about creating
 #### Digital References
 * _Poster House:_ [A History of American Protest](https://posterhouse.org/blog/a-history-of-american-protest/)
 * _Poster House:_ [Hot Poster Tips](https://posterhouse.org/blog/hot-poster-tips/)
-
+* _Speedball:_ [Cut Paper Stencil Method](https://www.youtube.com/watch?v=22OgwP74I1U)
 ---
 
 ### October 14 &mdash; Week 8
