@@ -132,6 +132,7 @@ A look at how posters and protest have coexisted. Also a workshop about creating
 * _Poster House:_ [A History of American Protest](https://posterhouse.org/blog/a-history-of-american-protest/)
 * _Poster House:_ [Hot Poster Tips](https://posterhouse.org/blog/hot-poster-tips/)
 * _Speedball:_ [Cut Paper Stencil Method](https://www.youtube.com/watch?v=22OgwP74I1U)
+
 ---
 
 ### October 14 &mdash; Week 8
@@ -141,10 +142,11 @@ A screen printing workshop to create protest posters.
 * D4: Craft&mdash;Screen Printing
 
 #### Critiques
-* Small Group
+* Pairs
 
 #### Reading
-* R3: _Night Discourse_ by Karrie Jacobs
+* R3: Skipping
+* R4: [_Matta-Clark Complex_ by James Goggin](https://www.are.na/block/690465)
 
 ---
 
@@ -152,13 +154,10 @@ A screen printing workshop to create protest posters.
 Beginning the final poster this week.
 
 #### Critiques
-* Speed Dating
-
-#### Reading
-* R4: [_Matta-Clark Complex_ by James Goggin](https://www.are.na/block/690465)
+* Undecided
 
 #### Starting
-* P3: For an Exhibition <!-- [For an Exhibition]({{ site.baseurl }}/projects/p3) -->
+* P3: [For an Exhibition]({{ site.baseurl }}/projects/p3)
 
 ---
 
