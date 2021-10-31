@@ -165,7 +165,7 @@ Beginning the final poster this week.
 I will not be here this week but you all are fully capable of handling this week on your own.
 
 #### Critiques
-* Small group
+* Virtual small group
 
 ---
 
