@@ -178,7 +178,7 @@ Working in class and critiques.
 ---
 
 ### November 11 &mdash; Week 12
-Individual meetings this week to look at your projects.
+Working in class and critiques.
 
 #### Critiques
 * Individual
@@ -186,10 +186,10 @@ Individual meetings this week to look at your projects.
 ---
 
 ### November 18 &mdash; Week 13
-Working in class and critiques.
+Individual meetings this week to look at your projects.
 
 #### Critiques
-* Whatever you need
+* Individual
 
 ---
 
